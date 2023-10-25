@@ -1,6 +1,6 @@
 
 
-<h1>Hello👋</h1>
+<h1>Hi👋</h1>
 
 I like to make things and learn things. Mostly in JavaScript/TypeScript. Most of my projects can be found on my website.
 
