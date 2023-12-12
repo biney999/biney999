@@ -4,7 +4,13 @@
 
 I like to make things and learn things. Mostly in JavaScript/TypeScript. Most of my projects can be found on my website.
 
-Disclaimer: Some of the code here is pretty awful, but I think it's worthwhile to show my progression. Thankfully I've improved significantly since I've started.
+- 🔭 I’m currently working on various web applications.
+- 🌱 I’m currently learning Rust and Angular
+- 📫 How to reach me: ...
+- ⚡ Fun fact: Water is wet. Mindblowing, I know.
+
+- Disclaimer: Some of the code here is pretty garbage, but I think it's worthwhile to show my progression. Thankfully I've improved significantly since I've started.
+
 <!--
 **biney999/biney999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
