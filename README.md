@@ -6,7 +6,7 @@ I like to make things and learn things. Mostly in JavaScript/TypeScript. Most of
 
 - 🔭 I’m currently working on various web applications.
 - 🌱 I’m currently learning Rust and Angular
-- 📫 How to reach me: ...
+- 📫 How to reach me: Why would you want to do that?
 - ⚡ Fun fact: Water is wet. Mindblowing, I know.
 
 - Disclaimer: Some of the code here is pretty garbage, but I think it's worthwhile to show my progression. Thankfully I've improved significantly since I've started.
