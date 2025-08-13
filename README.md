@@ -16,7 +16,7 @@
 #### Now
 * Developing software for an engineering company.
 
-#### Quote I like
+#### Quotes I like
 
 Obstacles are opportunities.
 
