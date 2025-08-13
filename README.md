@@ -1,15 +1,30 @@
 
 
-<h1>Hi👋</h1>
+## Bine || Biney || Sam!
 
-I like to make things and learn things. Mostly in JavaScript/TypeScript. Most of my projects can be found on my website.
+### 👋 Hey Little World!
 
-- 🔭 I’m currently working on various web applications.
-- 🌱 I’m currently learning Rust and Angular
-- 📫 How to reach me: Why would you want to do that?
-- ⚡ Fun fact: Water is wet. Mindblowing, I know.
+#### 💻I'm a software developer working in Australia.
 
-- Disclaimer: Some of the code here is pretty garbage, but I think it's worthwhile to show my progression. Thankfully I've improved significantly since I've started.
+* To know my stupid thoughts and other incorrect opinions, read [my blog](https://bineware.dev/blog)
+
+#### Bio
+
+*  🌀 2004-2022 The Void.
+*  🤓 2022 - 2025 Queensland University of Technology.
+
+#### Now
+* Developing software for an engineering company.
+
+#### Quote I like
+
+Obstacles are opportunities.
+
+Fortune favours the bold.
+
+#### Oh Also
+Some of (if not most) the public code on here is very bad. ~~This is a subtle reference to the fact I am bad at my job~~ Most of it is from my school era and reflects an early part of my career. I like to keep it here to show my evolution throughout the years.
+
 
 <!--
 **biney999/biney999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
